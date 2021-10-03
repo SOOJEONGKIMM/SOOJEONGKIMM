@@ -1,4 +1,4 @@
-# 🖐 Hello World!  _I am SOOJEONG_ 
+# 🖐 Hello World!  _I am SOOJEONG_
 
 
 - ✨I am currently studying Machine Learning✨
