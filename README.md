@@ -24,7 +24,7 @@
 
 📪 Reach Me: 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sookelly@gmail.com)](mailto:sookelly@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sookelly@korea.ac.kr)](mailto:sookelly@korea.ac.kr)
 
 **🐧 Penguins will rule the world!**
 
