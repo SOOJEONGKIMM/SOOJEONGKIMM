@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOOJEONGKIMM&layout=compact)](https://github.com/SOOJEONGKIMM/github-readme-stats)  [![SOOJEONG's github stats](https://github-readme-stats.vercel.app/api?username=SOOJEONGKIMM&layout=compact)](https://github.com/SOOJEONGKIMM/github-readme-stats)
 
 
-Reach Me: 
+📪 Reach Me: 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sookelly@gmail.com)](mailto:sookelly@gmail.com)
 
 **🐧 Penguins will rule the world!**
