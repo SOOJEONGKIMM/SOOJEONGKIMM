@@ -10,9 +10,9 @@
 
 ### 🐧 Interests
 - ✔️ Solving Algorithm: 
-        
+
         ![Commits](https://img.shields.io/github/commit-activity/w/SOOJEONGKIMM/BOJ_algorithm?style=social)
-- ✍️ Blog & Writing
+- ✍️ Blog & Writing:
        
        [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://hidemasa.tistory.com/)](https://hidemasa.tistory.com/)       
 - 🎸 🥁 Playing Bass & Drum
