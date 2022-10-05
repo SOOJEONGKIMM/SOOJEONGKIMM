@@ -19,7 +19,7 @@
 
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FFE4C4?style=for-the-badge&logo=Tensorflow&logoColor=FF6F00")![Pytorch](https://img.shields.io/badge/Pytorch-B0E0E6?style=for-the-badge&logo=Pytorch&logoColor=white")![scikit-learn](https://img.shields.io/badge/scikit_learn-D8BFD8?style=for-the-badge&logo=scikit-learn&logoColor=8B008B")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOOJEONGKIMM&layout=compact)](https://github.com/SOOJEONGKIMM/github-readme-stats)  [![SOOJEONG's github stats](https://github-readme-stats.vercel.app/api?username=SOOJEONGKIMM&layout=compact)](https://github.com/SOOJEONGKIMM/github-readme-stats)
+
 
 
 📪 Reach Me: 
