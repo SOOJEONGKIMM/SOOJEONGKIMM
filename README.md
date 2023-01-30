@@ -1,7 +1,7 @@
 # 🖐 Hello World!  _I am SOOJEONG_ 
 
 - ✨I am currently studying Machine Learning✨  
-- Research Interest : 🗣️ Natural Language Processing ,🗺️ Statistical data analysis / data mining
+- Research Interest : 🗣️ Natural Language Processing ,🗺️ Recommender System, Knowledge Graph
 
  
 
